@@ -53,6 +53,7 @@ body
 .foot
 {
   margin-top: 100px;
+  
 }
 /* .cont img
 {
@@ -75,6 +76,43 @@ body
   height:50%;
   margin-left: 50px;
 }
+.down button
+{
+  width:50%;
+  margin-left:25%;
+  margin-right:25%;
+  margin-top: 50px;
+  margin-bottom: 320px;
+}
+.down1 form
+{
+  width: 50%;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 330px;
+}
+/* .formm
+{
+    flex-direction: column;
+    margin-left:45%;
+    margin-right:50%;
+    margin-top: 50px; 
+}
+.formm1 label
+{
+  width:400px;  
+  margin-left:0%;
+  margin-right:50%;
+  margin-top: 50px;
+  margin-bottom: 10px; 
+} */
+/* .formm1 input
+{
+  width:200px;  
+  margin-left:250%;
+  margin-right:50%;
+  margin-top: 50px;
+} */
 .sizeimg1 img
 {
   width:70%;
@@ -91,9 +129,9 @@ body
 .maps
 {
   margin-top: 30px;
-  flex-direction: column;
-  
+  flex-direction: column; 
 }
+
 @media (max-width: 768px){
   .rowstyle {
       display: flex;

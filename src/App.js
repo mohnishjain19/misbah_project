@@ -5,6 +5,9 @@ import Missions from "./Components/Missions"
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import ContactUs from "./Components/ContactUs";
+import Download
+ from "./Components/Download";
+ import AirwayBill from "./Components/AirwayBill";
 function App() {
   return (
     <div className="fixap">
@@ -17,7 +20,8 @@ function App() {
           <Route path="/missions" element={<Missions/>} exact/>
           <Route path="/aboutus" element={<AboutUs/>} exact/>
           <Route path="/contactus" element={<ContactUs/>} exact/>
-          
+          <Route path="/download" element={<Download/>} exact/>
+          <Route path="/airwayBill" element={<AirwayBill/>} exact/>
        </Routes>
      </main>
      <footer>

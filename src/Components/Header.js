@@ -28,6 +28,17 @@ const Header = () => {
               <Link to="/contactus"> 
               ContactUs
               </Link></Nav.Link>
+              </Nav>
+              <Nav>
+              <Nav.Link >
+              
+              <Link to="/download"> 
+              Download
+              </Link></Nav.Link>
+              <Nav.Link >
+              <Link to="/airwaybill"> 
+              Airway Bill
+              </Link></Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

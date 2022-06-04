@@ -9,6 +9,9 @@ export default function Home()
 <div className="display-3 text-center mt-4">Mission Million Books </div>
       <Animations/>
       <DesignButton/>
+      <div className="space">
+
+      </div>
     </div>
   )
 }
