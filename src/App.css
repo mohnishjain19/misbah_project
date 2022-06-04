@@ -88,6 +88,12 @@ body
   text-align:center;
   font-size: 1.2rem;
 }
+.maps
+{
+  margin-top: 30px;
+  flex-direction: column;
+  
+}
 @media (max-width: 768px){
   .rowstyle {
       display: flex;

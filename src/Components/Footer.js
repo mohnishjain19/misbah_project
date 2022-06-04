@@ -16,7 +16,7 @@ const Footer = () => {
             <a
               className="btn btn-primary btn-floating m-1"
               style={{ backgroundColor: "#3b5998" }}
-              href="#!"
+              href="https://www.facebook.com/RatnaNidhi/"
               role="button"
             >
            <MDBIcon fab icon="facebook" />
@@ -25,45 +25,21 @@ const Footer = () => {
             <a
               className="btn btn-primary btn-floating m-1"
               style={{ backgroundColor: "#55acee" }}
-              href="#!"
+              href="https://twitter.com/ratnanidhitrust?s=21&t=Bp-okz8sHcH0HM8wqgU3fQ"
               role="button">
             <MDBIcon fab icon="twitter" />
             </a>
 
             <a
               className="btn btn-primary btn-floating m-1"
-              style={{ backgroundColor: "#dd4b39" }}
-              href="#!"
-              role="button"
-            >
-              <MDBIcon fab icon="google" />
-            </a>
-            <a
-              className="btn btn-primary btn-floating m-1"
               style={{ backgroundColor: "#ac2bac" }}
-              href="#!"
+              href="https://instagram.com/ratnanidhicharitabletrust?igshid=YmMyMTA2M2Y="
               role="button"
             >
               <MDBIcon fab icon="instagram" />
             </a>
 
-            <a
-              className="btn btn-primary btn-floating m-1"
-              style={{ backgroundColor: "#0082ca" }}
-              href="#!"
-              role="button"
-            >
-              <MDBIcon fab icon="linkedin-in" />
-            </a>
 
-            <a
-              className="btn btn-primary btn-floating m-1"
-              style={{ backgroundColor: "#333333" }}
-              href="#!"
-              role="button"
-            >
-              <MDBIcon fab icon="github" />
-            </a>
           </section>
         </div>
 
