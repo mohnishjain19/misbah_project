@@ -16,7 +16,7 @@ const Animations = () => {
     <MDBCarousel showIndicators showControls fade className='Animate'>
     <MDBCarouselInner >
       <MDBCarouselItem className='active'>
-        <MDBCarouselElement className=" rounded "src='https://danamojo.org/dm/backend/web/uploads/images/674_1619427050.jpg' alt='...'  />
+        <MDBCarouselElement className=" rounded "src='https://www.thespruce.com/thmb/3GBU6V_TWHB6IS_HEYOvBGibIRs=/4543x3029/filters:fill(auto,1)/how-to-sell-used-books-for-the-most-cash-1388970-01-7815a93d4c95431999e1b5192ece1699.jpg' alt='...'  />
       </MDBCarouselItem>
 
       <MDBCarouselItem>

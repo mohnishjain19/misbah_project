@@ -3,7 +3,8 @@ import { Routes, Route } from 'react-router-dom';
 import AboutUs from "./Components/AboutUs";
 import Missions from "./Components/Missions"
 import Header from "./Components/Header";
-  
+import Footer from "./Components/Footer";
+
 function App() {
   return (
     <>
@@ -17,6 +18,9 @@ function App() {
           <Route path="/aboutus" element={<AboutUs/>} exact/>
        </Routes>
      </main>
+     <footer>
+     <Footer/>
+     </footer>
      </>
   );
 }

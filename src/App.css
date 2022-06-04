@@ -43,3 +43,36 @@ body
 {
   width:60px;
 }
+
+.cent
+{
+  text-align: center;
+}
+  .foot
+{
+  margin-top: 100px;
+}
+.sizeimg img
+{
+  width:70%;
+  height:50%;
+  margin-left: 50px;
+}
+.sizeimg1 img
+{
+  width:100%;
+  height:1000%;
+  margin-left: 50px;
+}
+.centt
+{
+  margin-top: 10px;
+  text-align:center;
+  font-size: 1.2rem;;
+}
+@media (max-width: 768px){
+  .rowstyle {
+      display: flex;
+      flex-direction: column !important;
+  }
+} 
