@@ -24,12 +24,16 @@ const Header = () => {
               <Link to="/aboutus"> 
               AboutUS
               </Link></Nav.Link>
+              <Nav.Link >
+              <Link to="/contactus"> 
+              ContactUs
+              </Link></Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
       </Navbar>
 
-      
+
 
     </div>
   );
